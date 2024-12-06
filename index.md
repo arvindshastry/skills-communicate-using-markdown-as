@@ -8,3 +8,6 @@
 We used all types of headers
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
